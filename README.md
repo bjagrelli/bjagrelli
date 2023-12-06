@@ -1,23 +1,27 @@
-# bjagrelli
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<div align="center">
-  <a href="https://github.com/bjagrelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bjagrelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjagrelli&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="bjagrelli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="bjagrelli-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="bjagrelli-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="bjagrelli-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="bjagrelli-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/bjjagrelli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bjagrelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bjagrelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<p align="left"> 
+  Hey! I'm Breno, <strong>Data Engineer</strong> with more than 3 years of experience.<br>
+  I'm working on personal projects in my GitHub at the moment. I have strong knowledge in SQL and Python, but I'm also skilled in Bash. Right now I'm trying to learn some Rust.
+  I'm interested in web scraping, machine learning, data engineering and IOT. I'm also found of cybersecurity.
+</p>
+
+<p align="left">
+  🦄 Programming Languages: <strong>SQL, Python, Bash, Rust.</strong>
+</p>
+
+<p align="left">
+  💼 Tools: <strong>Stack GCP, Stack Azure, Airflow, Databricks, Spark, DBT.</strong>
+</p>
+
+<p align="left">
+  💌 Want to talk? ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:bjagrelli@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=bjagrelli@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/bjagrelli/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bjagrelli/" /></a>
+</p>  
